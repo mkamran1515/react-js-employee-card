@@ -1,0 +1,50 @@
+[
+    {
+       "id": "1",
+       "name": "Trump",
+       "designation" : "Web Developer",
+       "image": "https://avatars.mds.yandex.net/i?id=5969479cd6d7538a3f40060d852a6a06c4ef9254-7664089-images-thumbs&n=13"
+    },
+    {
+        "id": "2",
+        "name": "Saleem Bajwa",
+        "designation" : "Software Engineer",
+        "image": "https://avatars.mds.yandex.net/i?id=51b657746559c75919b575161e3abbec25f10197-8223286-images-thumbs&n=13"
+     },
+     {
+        "id": "3",
+        "name": "Elon Musk",
+        "designation" : "SEO expert",
+        "image": "https://avatars.mds.yandex.net/i?id=65f00be82be30aa445ab0c4e365ce4cff83a0c12-8240493-images-thumbs&n=13"
+     },
+     {
+        "id": "4",
+        "name": "Sagar",
+        "designation" : "Content Writer",
+        "image": "https://exena.sg/wp-content/uploads/2021/02/3-2.png"
+     },
+     {
+        "id": "5",
+        "name": "Aslam Ali Baga",
+        "designation" : "System Analyst",
+        "image": "https://miro.medium.com/max/2400/1*rTpuCLM3uB1m5iGVjBuV1w.jpeg"
+     },
+     {
+        "id": "6",
+        "name": "Hoorain Fatima",
+        "designation" : "Data Scientist",
+        "image": "http://savax.co.za/wp/wp-content/uploads/2016/02/savax-professional-accountant-798x532@2x.jpg"
+     },
+     {
+        "id": "7",
+        "name": "Noreen Alam",
+        "designation" : "PHP Developer",
+        "image": "https://www.earlyyearscareers.com/eyc/wp-content/uploads/2016/02/14365669046_74560e7cf2_o.jpg"
+     },
+     {
+        "id": "9",
+        "name": "Vajiha Aslam",
+        "designation" : "Psychatrist",
+        "image": "https://storage.yandexcloud.net/lingua-vita/media/students/courses/a1-base-course/modul-2/urok-1/work_here.jpg"
+     }
+]
